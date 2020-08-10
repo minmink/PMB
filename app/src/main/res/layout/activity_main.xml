@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e6daf4"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.09"
+        android:background="#FFFFFF"
+        android:orientation="horizontal"
+        android:padding="7dp">
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="0.05"
+            android:background="#FFFFFF"
+            android:onClick="onBackButtonClick"
+            android:src="@drawable/back2" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="6"
+            android:src="@drawable/mainlet" />
+
+        <ImageButton
+            android:id="@+id/menu"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_weight="0.05"
+            android:background="#FFFFFF"
+            android:src="@drawable/menu2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#FFFFFF"
+        android:padding="7dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/BookSearch"
+            android:layout_width="342dp"
+            android:layout_height="40dp"
+            android:layout_weight="10"
+            android:ems="10"
+            android:hint="@android:string/search_go"
+            android:inputType="textNoSuggestions"
+            android:textSize="12dp" />
+
+        <ImageButton
+            android:id="@+id/Search"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_weight="0.1"
+            android:background="#FFFFFF"
+            android:onClick="Search_Clicked"
+            android:src="@drawable/search2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/PMB_CHATHOME"
+                android:layout_width="128dp"
+                android:layout_height="128dp"
+                android:layout_marginRight="45dp"
+                android:layout_weight="1"
+                android:background="#FFFFFF"
+                android:onClick="PMB_CHATHOME_Clicked"
+                app:srcCompat="@drawable/kahome" />
+
+            <ImageButton
+                android:id="@+id/PMB_CHATBOT"
+                android:layout_width="128dp"
+                android:layout_height="128dp"
+                android:layout_weight="1"
+                android:background="#FFFFFF"
+                android:onClick="PMB_CHATBOT_Clicked"
+                app:srcCompat="@drawable/kachat" /> </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_marginBottom="30dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="128dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="50dp"
+                android:layout_weight="1"
+                android:text="PMB_HOME"
+                android:paddingLeft="25dp"
+                android:textColor="#7f56a9"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="128dp"
+                android:layout_height="match_parent"
+                android:text="PMB_CHATBOT"
+                android:paddingLeft="20dp"
+                android:textColor="#7f56a9"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/BOOK_LIST"
+                android:layout_width="128dp"
+                android:layout_height="128dp"
+                android:layout_weight="1"
+                android:background="#FFFFFF"
+                android:layout_marginRight="45dp"
+                android:onClick="List_Clicked"
+                app:srcCompat="@drawable/booklist" />
+
+            <ImageButton
+                android:id="@+id/MY_BOOK"
+                android:layout_width="128dp"
+                android:layout_height="128dp"
+                android:layout_weight="1"
+                android:background="#FFFFFF"
+                android:onClick="saying_Clicked"
+                app:srcCompat="@drawable/mybook" /> </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_marginBottom="30dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="128dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="50dp"
+                android:layout_weight="1"
+                android:text="BOOK_LIST"
+                android:paddingLeft="20dp"
+                android:textColor="#7f56a9"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="128dp"
+                android:layout_height="match_parent"
+                android:text="FAMOUS_SAYINGS"
+                android:textColor="#7f56a9"
+                android:textStyle="bold" />
+
+        </LinearLayout></LinearLayout>
+
+</LinearLayout>

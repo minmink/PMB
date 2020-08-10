@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\ab9849a5d8cb35244a44ea57b2295e11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ef6fd396ed073a525ee97ee6269a026e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\946b521a3941cc4ff70cdc7763a107b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\5845c8a35ba8644504ba8ba886e9bde7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\d146d6ba8b7cccef40ff58c58e15b7dc\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\9741479b05427db3682b8af77df15741\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\33601ba2ead4057604acaf4a44077153\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a2fedc558ad6fc694de1523a7a21bd0a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\a88998b5c83d0882e1f988db039c2c66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\c06fd7f23cdddddff7a90bb95930ab88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\f443541b63b61b388af12f058577479f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\bf57982d30e6c43fed191428a1bb6172\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\6ca073ec4de81e3b415ab2d9fd1ac9c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\a7816c8fdd2fb3777b077b37c3b95696\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\d73312bd3197fbf222e43fcdd9ded145\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\3bc1b9e33c88f5a83f45a849348acd63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\532a783b2a07d9b9a363b084f7727074\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\2d368aa879ae3a186b5205a80c3494ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\26c88f04e97b4da10cc496358e37363c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\69448dbe62eb0b6ff9d55e727c805cff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\149b1a7c8af7d7010af873275a3fbfad\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\10de54d54f391395bee6b5f320b553af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c6599261aeb8791c3d1f948016a70ca6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ae85b4aff4b1a696d879e9e9cab016c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8307be15534e8d3e9752acbce0472289\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\8c1ef8b01ed3d8c28bfe3ef5f196dd53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\bd4c8ac9b5f67f8ffd6a1634fedf341e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\c7b5d804cb9c3390707a213bd6bb0db9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\89d83757d5cc639ca6fef538493530e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\9eacb52d2bdee16db6c91c366bc92795\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ef6fd396ed073a525ee97ee6269a026e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ef6fd396ed073a525ee97ee6269a026e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\33601ba2ead4057604acaf4a44077153\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\33601ba2ead4057604acaf4a44077153\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a2fedc558ad6fc694de1523a7a21bd0a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a2fedc558ad6fc694de1523a7a21bd0a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\69448dbe62eb0b6ff9d55e727c805cff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\69448dbe62eb0b6ff9d55e727c805cff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\149b1a7c8af7d7010af873275a3fbfad\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\149b1a7c8af7d7010af873275a3fbfad\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\69448dbe62eb0b6ff9d55e727c805cff\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:11:9-37
+	android:debuggable
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:14:9-34
+	tools:ignore
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:16:9-42
+	android:roundIcon
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.hanium.pmb.LoginActivity
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:18:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.hanium.pmb.MainActivity
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:25:19-47
+activity#com.example.hanium.pmb.HomeActivity
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:26:19-47
+activity#com.example.hanium.pmb.SayingActivity
+ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml:27:19-49
+uses-sdk
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\ab9849a5d8cb35244a44ea57b2295e11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\ab9849a5d8cb35244a44ea57b2295e11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ef6fd396ed073a525ee97ee6269a026e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ef6fd396ed073a525ee97ee6269a026e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\946b521a3941cc4ff70cdc7763a107b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\946b521a3941cc4ff70cdc7763a107b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\5845c8a35ba8644504ba8ba886e9bde7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\5845c8a35ba8644504ba8ba886e9bde7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\d146d6ba8b7cccef40ff58c58e15b7dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\d146d6ba8b7cccef40ff58c58e15b7dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\9741479b05427db3682b8af77df15741\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\9741479b05427db3682b8af77df15741\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\33601ba2ead4057604acaf4a44077153\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\33601ba2ead4057604acaf4a44077153\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a2fedc558ad6fc694de1523a7a21bd0a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a2fedc558ad6fc694de1523a7a21bd0a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\a88998b5c83d0882e1f988db039c2c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\a88998b5c83d0882e1f988db039c2c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\c06fd7f23cdddddff7a90bb95930ab88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\c06fd7f23cdddddff7a90bb95930ab88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\f443541b63b61b388af12f058577479f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\f443541b63b61b388af12f058577479f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\bf57982d30e6c43fed191428a1bb6172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\bf57982d30e6c43fed191428a1bb6172\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\6ca073ec4de81e3b415ab2d9fd1ac9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\6ca073ec4de81e3b415ab2d9fd1ac9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\a7816c8fdd2fb3777b077b37c3b95696\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\a7816c8fdd2fb3777b077b37c3b95696\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\d73312bd3197fbf222e43fcdd9ded145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\d73312bd3197fbf222e43fcdd9ded145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\3bc1b9e33c88f5a83f45a849348acd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\3bc1b9e33c88f5a83f45a849348acd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\532a783b2a07d9b9a363b084f7727074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\532a783b2a07d9b9a363b084f7727074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\2d368aa879ae3a186b5205a80c3494ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\2d368aa879ae3a186b5205a80c3494ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\26c88f04e97b4da10cc496358e37363c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\26c88f04e97b4da10cc496358e37363c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\69448dbe62eb0b6ff9d55e727c805cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\69448dbe62eb0b6ff9d55e727c805cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\149b1a7c8af7d7010af873275a3fbfad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\149b1a7c8af7d7010af873275a3fbfad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\10de54d54f391395bee6b5f320b553af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\10de54d54f391395bee6b5f320b553af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c6599261aeb8791c3d1f948016a70ca6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c6599261aeb8791c3d1f948016a70ca6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ae85b4aff4b1a696d879e9e9cab016c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ae85b4aff4b1a696d879e9e9cab016c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8307be15534e8d3e9752acbce0472289\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8307be15534e8d3e9752acbce0472289\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\8c1ef8b01ed3d8c28bfe3ef5f196dd53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\8c1ef8b01ed3d8c28bfe3ef5f196dd53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\bd4c8ac9b5f67f8ffd6a1634fedf341e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\bd4c8ac9b5f67f8ffd6a1634fedf341e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\c7b5d804cb9c3390707a213bd6bb0db9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\c7b5d804cb9c3390707a213bd6bb0db9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\89d83757d5cc639ca6fef538493530e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\89d83757d5cc639ca6fef538493530e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\9eacb52d2bdee16db6c91c366bc92795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\9eacb52d2bdee16db6c91c366bc92795\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pretty\Documents\GitHub\PMB\Yun\PMB\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\58e611a73a8ced6c37715627004662a7\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\d83eabed3a1e4a6abb2e8866087cfc6b\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\ed5bf4e4eed509fd7aaa2471d3a7f912\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a2fedc558ad6fc694de1523a7a21bd0a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a2fedc558ad6fc694de1523a7a21bd0a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\pretty\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\68eab805028668673e0cbbcf6e40c5c1\AndroidManifest.xml:27:13-51

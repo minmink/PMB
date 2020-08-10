@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PMB(Pick My Book)</string>
+    <string name="pmb_login_page">Hello PMB Log In Page!</string>
+    <string name="login_without_google">Log In Without Google Account</string>
+    <string name="hello_pmb">Hello PMB!</string>
+
+
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signing_in">Signing In…</string>
+    <string name="signed_out">Signed Out</string>
+
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- TODO(user): replace with your real server client ID -->
+    <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
+         from https://console.developers.google.com/ -->
+    <string name="server_client_id">555191812978-8p53r97d1bqq4ec8n55qkcr2uc29jt7f.apps.googleusercontent.com</string>
+
+
+
+</resources>
